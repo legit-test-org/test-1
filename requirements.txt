@@ -1,1 +1,2 @@
 requests
+twisted<19.10.0
